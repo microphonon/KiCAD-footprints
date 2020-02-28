@@ -1,3 +1,3 @@
-# KiCAD_footprints
+# KiCAD pretty PCB footprints
 
-Assorted surface-mount components for KiCAD (pretty).
+Assorted surface-mount components.
