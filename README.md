@@ -1,3 +1,3 @@
-# KiCAD-footprints
+# KiCAD_footprints
 
-Assorted surface-mount components.
+Assorted surface-mount components for KiCAD (pretty).
