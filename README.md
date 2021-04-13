@@ -1,5 +1,7 @@
 # KiCAD pretty PCB footprints
 
+<p>Footprints generated from dimensions on manufacturer spec sheets
+
 <p>Bosch BME280 pressure-temperature-humidity sensor
 <br>Texas Instruments HDC2010 temperature-humidity sensor
 <br>Sensirion SHTC3 temperature-humidity sensor
