@@ -12,3 +12,4 @@
 <br>TI MSP430F5528 and equivalent 64-pin MCUs
 <br>TI MSP430FR5969 and equivalent 48-pin MCUs
 <br>TI MSP430FR2355TRSMT and equivalent 32-pin MCUs
+<br>TI MSP430FR5994IRGZ and equivalent 48-pin MCUs
