@@ -3,7 +3,7 @@
 <p>Footprints generated from dimensions on manufacturer spec sheets. 
 <p>The MSP430s have thermal pads that should be connected to the ground layer of the PCB. If thermal relief has been set in the ground layer pour, the clearance may be too large to connect the layer to the small plated through-holes. Set the pad connection to "solid" in the local clearance settings. 
   
-<p>All footprints except the 32-pin VQFN have been verified by reflow soldering devices on a PCB and testing for correct operation.
+<p>All footprints have been verified by reflow soldering components on a PCB and tested for correct operation.
 
 <p>Bosch BME280 pressure-temperature-humidity sensor
 <br>Texas Instruments HDC2010 temperature-humidity sensor
